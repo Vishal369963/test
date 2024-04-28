@@ -1,3 +1,3 @@
 # test
-test repo for git command demonstration
-author - Vishal Singh S
+test repo for git command demonstration.
+Author - Vishal Singh S.
